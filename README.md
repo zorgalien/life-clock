@@ -22,4 +22,3 @@ Files:
 Notes:
 - The app uses an average year length (365.2425 days) to account for leap years.
 - Data is stored locally in the browser only.
-- Want me to push these files into the `life-clock` branch and open a pull request? Say the word and I will create the branch commit and PR.
